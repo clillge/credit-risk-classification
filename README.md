@@ -26,8 +26,8 @@ Given those weightings and assumptions made by the model, we can then use it to 
 ## Results
 
 * Machine Learning Model:
-  * Accuracy:92% for precision, 95% for recall across both types of loans.
-  * Precision:100% for healthy loans, 85% for high-risk loans.
+  * Accuracy: 92% for precision, 95% for recall across both types of loans.
+  * Precision: 100% for healthy loans, 85% for high-risk loans.
   * Recall: 99% for healthy loans, 91% for high-risk loans.
 
 ## Summary
